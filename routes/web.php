@@ -16,3 +16,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/Beranda', function () {
+    return '
+    <h1>
+    <div style="text-align: center;">
+    <b>23 Maret 2001</b>
+    </h1>
+    ';
+});
+
