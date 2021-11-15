@@ -13,6 +13,5 @@
     <li>Sub Version</li>
     <li>Mercurial</li>
     <li>Revision Control System</li>
-    <li>ClearCase</li></ul>
 </body>
 </html>
